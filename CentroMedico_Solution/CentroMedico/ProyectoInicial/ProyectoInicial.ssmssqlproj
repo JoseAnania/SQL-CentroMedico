@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ProyectoInicial">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-E8FRIUV\SQLEXPRESS01:sa">
+          <Created>2021-10-10T17:38:37.7822718-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-E8FRIUV\SQLEXPRESS01</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Comandos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Comandos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EstructurasControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>EstructurasControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HerramientasAdicionales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>HerramientasAdicionales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operadores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Operadores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Stored Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Stored Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Subconsultas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-E8FRIUV\SQLEXPRESS01:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-E8FRIUV\SQLEXPRESS01</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Subconsultas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

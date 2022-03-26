@@ -1,0 +1,4 @@
+--Reiniciar el Identity desde 1--
+
+dbcc CHECKIDENT ('nombreTabla', RESEED, 0)
+
